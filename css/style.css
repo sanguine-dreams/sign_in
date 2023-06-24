@@ -1,5 +1,5 @@
 .content {
-    padding: 7rem 0;
+    padding: 4rem;
 }
 .form-control {
     border: none;
@@ -57,7 +57,13 @@
 
 .form-group{
     margin-bottom: 1rem;
+  
 }
 #message {
     resize: vertical;
+}
+
+img {
+    height: 100%;
+    width: 100%;
 }
